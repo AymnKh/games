@@ -1,6 +1,8 @@
 # GamesDb
 
 This project was generated with Angular CLI version 15.0.5.
+# live demo
+# https://games-data.netlify.app/
 
 ## API
 `https://rawg.io/apidocs`
